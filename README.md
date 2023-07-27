@@ -4,7 +4,7 @@ Don't like the Twitter rebrand to x.com? Neither did I, so I made this Chrome ex
 
 Shout out to Cygaar for creating the original "old twitter" extension.
 
-[Cygaar's "old twitter" repo](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked).
+[Cygaar's "old twitter" repo](https://github.com/cygaar/old-twitter).
 
 The loading icon still needs to be replaced.
 
